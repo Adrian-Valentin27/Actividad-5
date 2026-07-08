@@ -7,7 +7,8 @@
 
 ##  Integrantes del Equipo
 *  **Gonzalez Valentin Adrian** 
-*  **[Nombre Compañero 2]** 
+*  **Martinez Miguel Leonardo Daniel**
+*  **Grupo 7SC** 
 
 ---
 
@@ -64,19 +65,28 @@ Para mantener la persistencia de los datos en el frontend, utilizamos el **Web S
 
 ##  Capturas de Pantalla del Flujo Funcional
 
-*(Nota: Reemplaza las rutas de las imágenes con las capturas reales de tu proyecto)*
-
 ### 1. Pantalla de Login y Validación en tiempo real
-> Muestra el formulario y cómo los requisitos de la contraseña cambian de estado.
+> Muestra el formulario y el cómo de la contraseña cambian de color su caudro de texto.
+<img width="1916" height="867" alt="image" src="https://github.com/user-attachments/assets/094d5b90-e233-46d5-ab3e-269b6f72f691" />
+
+<img width="1918" height="862" alt="image" src="https://github.com/user-attachments/assets/6e54504a-86e4-450a-9322-00d2d5f30802" />
+
+<img width="1918" height="876" alt="image" src="https://github.com/user-attachments/assets/16b4b9e8-79a3-433c-b7f2-37218dbbe1d8" />
 
 ### 2. Dashboard: Navbar y Sidebar desplegado
 > Muestra el menú lateral activo y el nombre del usuario dinámico en la parte superior derecha.
+<img width="1918" height="865" alt="image" src="https://github.com/user-attachments/assets/06e71d39-56f0-4c0f-814a-6369fc5d89fc" />
+
 
 ### 3. Captura de Alumnos: Validación de Número de Control
 > Evidencia de la validación de 6 dígitos en el formulario.
+<img width="1918" height="867" alt="image" src="https://github.com/user-attachments/assets/950ae527-7149-4564-ada5-828a9995bf88" />
+
+<img width="1918" height="863" alt="image" src="https://github.com/user-attachments/assets/23b52dea-def2-47bd-9ece-6731776efee4" />
 
 ### 4. Modal Reutilizable (Estética de Consola)
 > Demostración de nuestro modal personalizado CSS.
+ <img width="1917" height="871" alt="image" src="https://github.com/user-attachments/assets/1abbf696-218c-4955-95b7-4c3dac084409" />
 
 ---
 *
